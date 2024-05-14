@@ -27,3 +27,11 @@ tei-persName, tei-placeName {
 tei-front {
   font-style: italic;
 }
+
+tei-pb::after {
+  display: block;
+  content: "[" attr(n) "]";
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  font-style: italic;
+}
