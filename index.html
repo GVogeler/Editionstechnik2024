@@ -11,16 +11,16 @@
     <script src="js/CETEI.js"></script>
     <script>
       var CETEIcean = new CETEI();
-      CETEIcean.getHTML5('12052024_Berg_Webern.xml', function(data) {
+      /* CETEIcean.getHTML5('12052024_Berg_Webern.xml', function(data) {
         document.getElementById("TEI").innerHTML = "";
         document.getElementById("TEI").appendChild(data);
         CETEIcean.addStyle(document, data);
       });
-
+      */
       // Alternatively, use then()
-      // (new CETEI).getHTML5('testTEI.xml').then(function(data){
-      //   document.getElementById("TEI").appendChild(data);
-      // });
+       (new CETEI).getHTML5('12052024_Berg_Webern.xml').then(function(data){
+         document.getElementById("TEI").appendChild(data);
+      });
 
     </script>
     <footer>
