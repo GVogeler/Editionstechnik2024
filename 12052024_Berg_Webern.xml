@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>         
+         <titleStmt>            
+            <title>EXPOSÈ<lb/>Postkarte von Alban Berg an Anton Webern im Jahr 1932</title>            
+         </titleStmt>
+         <publicationStmt>
+            <p>Öffentliche Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <settlement>Wien</settlement>
+                  <repository>Stadtbibliothek</repository>
+               </msIdentifier>
+               <msContents>
+                  <msItem>                    
+                     <author ana="authority">Alban Berg</author>
+                     <title type="original">Postkarte</title>
+                     <title type="copy">Postkarte vom 3.11.1932 an Anton Webern</title>
+                     <textLang mainLang="la">Deutsch</textLang>
+                  </msItem>
+               </msContents>      
+            <physDesc>
+                  <p><material>Papier, A6</material></p>
+                </physDesc>
+               </msDesc>
+            </sourceDesc>
+      </fileDesc>
+   </teiHeader>   
+   <text>
+      <body>
+         <p> Wer waren die Herren Alban Berg und Anton Webern?</p>
+         <p> Alban Berg wurde am 6. Februar 1885 in Wien geboren und auf den Namen Albano Maria Johannes Berg getauft. Er war das dritte von vier Kindern einer wohlhabenden 
+            Kaufmannsfamilie, die sich seinen musikalischen und literarischen Interesse gegenüber aufgeschlossen zeigte. Alban Berg war vom Herbst 1904 bis zum Sommer 1911 
+            Schönberg-Schüler. Alban Berg pflegte die geistige Verbundenheit bis an sein Lebensende und trat auch für die künstlerischen Ideale als auch für diese Ziele 
+            bedingungslos ein. Er hatte bereits zu Lebzeiten mit seiner ersten Oper Wozzek außerordentlichen Erfolg, die am 14.12.1925 in der Berliner Staatsoper unter den 
+            Linden v. Erich Kleiber uraufgeführt wurde. 
+            Er verdiente seinen Lebensunterhalt vor allem durch Unterricht, mit eigenen Kompositionen und durch Arbeiten für die Wiener Universal Edition. Komposition lernten 
+            bei Alban Berg z.B. Fritz Heinrich Klein (1918), Theodor W. Adorno (1925/26), Hanns Jelinek und Lars-Erik Larson (1929/30). 
+            Seine Werke vereinen Einflüsse der Mahlereschen Spätromantik mit Arnold Schönbergs freier Tonalität bzw. Atonalität und später der Zwölftontechnik. 
+            Mit Ausnahme der Sommermonate und den vielen Konzertreisen verbrachte Berg sein gesamtes Leben in Wien. Alban Berg verstarb an einer Sepsis in der Nacht vom 23. 
+            Auf den 24. Dezember 1935 in Wien. 
+            
+            Anton Friedrich Wilhelm (von) Webern wurde am 3. Dezember 1883 in Wien als Sohn des Bergbauingenieurs und späteren Ministerialrats Karl Freiherr von Webern geboren, 
+            erhielt bereits früh von seiner Mutter Klavierunterricht und sein musikalisches Talent wurde nach Kräften gefördert. 
+            An der Universität Wien studierte er Musikwissenschaft (Klavier, Cello), schloss 1906 mit einer Dissertation ab und erhielt von 1904 bis 1908  Kompositionsunterricht 
+            von Arnold Schönberg. Bereits mit 14 Jahren wirke Webern bereits als Cellist im Klagenfurter Konzertvereinsorchester mit und begann mit ersten eigenen Kompositionen. 
+            Den entscheidenden Impuls seiner künstlerischen Entwicklung erhielt Webern jedoch durch die Begegnung mit Arnold Schönberg. Es entstanden die ersten Kompositionen 
+            für Orchester und sowie seine ersten atonalen Kompositionen. Ab 1908 wirkte er als Theaterkapellmeister in Wien, Danzig, Stettin und Prag, arbeitete ab 1918 in 
+            Schönbergs „Verein für musikalische Privataufführungen“ mit und leitete 1921-1934 die Wiener Arbeiter-Sinfoniekonzerte sowie den Wiener Arbeiter-Singverein. Seit 
+            1927 war er Dirigent, seit 1930 Fachberater beim Österr. Rundfunk. 1938 erhielt er Aufführungs- sowie Publikationsverbot und lebte zurückgezogen und vom musikalischen 
+            Privatunterricht in Mittersill, wo er irrtümlich am 15. September 1945 irrtümlich von einem amerikanischen Soldaten erschossen wurde! 
+            Auch Anton Webern blieb sein Leben lang mit Arnold Schönberg in Freundschaft verbunden.  
+            Arnold Schönberg, Alban Berg und Anton Webern zusammen bildeten der Kern der „Wiener Schule“.</p>
+         
+         <p> Transkription der Postkarte an <lb/>Hr <lb/>Dr Anton Webern<lb/>Maria Enzersdorf<lb/>Im Auholz 8<lb/>bei Wien<lb/>
+         
+         Absender:<lb/>Alban Berg, Wien XIII/1<lb/>Trauttmansdorffgasse 27<lb/>(Austria) Tel. R 34-8-31<lb/>3./11<lb/></p>
+         
+         <p> Mein Lieber, es <lb/>war herrlich am 1.!<lb/>Gern hätte ich mit<lb/>Dir gesprochen darüber;,<lb/>nun muß ich aber<lb/>Seite 2:<lb/>morgen auf ein paar Tage geschäftlich<lb/>verreisen. 
+            Wenn ich aber zurück<lb/>bin, meld' ich mich sofort! Bis<lb/>dahin alles Liebe und nochmals Dank<lb/>für dein Allerheiligenkonzert!<lb/>Dein Alban</p>
+      </body>
+   </text>
+</TEI>
