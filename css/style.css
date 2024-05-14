@@ -18,3 +18,12 @@ header, footer {
   background-color: beige;
   padding: 1em;
 }
+
+tei-persName, tei-placeName {
+  font-weight: bold;
+  color: darkgreen;
+}
+
+tei-front {
+  font-style: italic;
+}

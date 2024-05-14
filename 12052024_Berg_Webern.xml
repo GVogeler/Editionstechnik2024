@@ -33,9 +33,9 @@
       </fileDesc>
    </teiHeader>   
    <text>
-      <body>
-         <p> Wer waren die Herren Alban Berg und Anton Webern?</p>
-         <p> Alban Berg wurde am 6. Februar 1885 in Wien geboren und auf den Namen Albano Maria Johannes Berg getauft. Er war das dritte von vier Kindern einer wohlhabenden 
+      <front>
+         <head> Wer waren die Herren Alban Berg und Anton Webern?</head>
+         <p> <persName>Alban Berg</persName> wurde am 6. Februar 1885 in <placeName>Wien</placeName> geboren und auf den Namen Albano Maria Johannes Berg getauft. Er war das dritte von vier Kindern einer wohlhabenden 
             Kaufmannsfamilie, die sich seinen musikalischen und literarischen Interesse gegenüber aufgeschlossen zeigte. Alban Berg war vom Herbst 1904 bis zum Sommer 1911 
             Schönberg-Schüler. Alban Berg pflegte die geistige Verbundenheit bis an sein Lebensende und trat auch für die künstlerischen Ideale als auch für diese Ziele 
             bedingungslos ein. Er hatte bereits zu Lebzeiten mit seiner ersten Oper Wozzek außerordentlichen Erfolg, die am 14.12.1925 in der Berliner Staatsoper unter den 
@@ -57,13 +57,17 @@
             Privatunterricht in Mittersill, wo er irrtümlich am 15. September 1945 irrtümlich von einem amerikanischen Soldaten erschossen wurde! 
             Auch Anton Webern blieb sein Leben lang mit Arnold Schönberg in Freundschaft verbunden.  
             Arnold Schönberg, Alban Berg und Anton Webern zusammen bildeten der Kern der „Wiener Schule“.</p>
+      </front>
+      <body>
          
-         <p> Transkription der Postkarte an <lb/>Hr <lb/>Dr Anton Webern<lb/>Maria Enzersdorf<lb/>Im Auholz 8<lb/>bei Wien<lb/>
+         <head> Transkription der Postkarte an</head>
+         <p>Hr <lb/>Dr Anton Webern<lb/>Maria Enzersdorf<lb/>Im Auholz 8<lb/>bei Wien<lb/>
          
          Absender:<lb/>Alban Berg, Wien XIII/1<lb/>Trauttmansdorffgasse 27<lb/>(Austria) Tel. R 34-8-31<lb/>3./11<lb/></p>
          
          <p> Mein Lieber, es <lb/>war herrlich am 1.!<lb/>Gern hätte ich mit<lb/>Dir gesprochen darüber;,<lb/>nun muß ich aber<lb/>Seite 2:<lb/>morgen auf ein paar Tage geschäftlich<lb/>verreisen. 
             Wenn ich aber zurück<lb/>bin, meld' ich mich sofort! Bis<lb/>dahin alles Liebe und nochmals Dank<lb/>für dein Allerheiligenkonzert!<lb/>Dein Alban</p>
+         
       </body>
    </text>
 </TEI>
