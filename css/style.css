@@ -6,3 +6,15 @@
 tei-teiHeader {
   display: none;
 }
+
+tei-sourceDesc {
+  display: block;
+  background-color: beige;
+  font-style: italic;
+}
+
+header, footer {
+  border: 1px solid #000;
+  background-color: beige;
+  padding: 1em;
+}
